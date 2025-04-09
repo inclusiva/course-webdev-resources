@@ -1,4 +1,4 @@
-# **Aula 3: Tabelas e Formulários - Versão Integrada com Progressão para CSS**
+# **Aula 3: Tabelas e Formulários**
 
 ## 🎯 **Objetivos da Aula**
 
