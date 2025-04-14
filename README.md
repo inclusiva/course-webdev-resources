@@ -14,7 +14,7 @@ Este repositório contém uma coleção de recursos para o aprendizado em desenv
 1. Clone este repositório para o seu computador:
 
     ```bash
-    git clone [https://github.com/inclusiva/course-webdev-resources.git](https://github.com/inclusiva/course-webdev-resources.git)
+    git clone https://github.com/inclusiva/course-webdev-resources.git
     ```
 
 2. Navegue pelas pastas para encontrar os materiais desejados.
